@@ -1,10 +1,5 @@
 # plex-aware-smart-room
 
-single folder version
-
-all files in this same folder  
-easy to drag into a repo or arduino
-
 ## files
 
 - README.md
